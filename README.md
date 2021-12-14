@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning serverless architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---vahid.forghani@gmail.com
---https://www.linkedin.com/in/vahid-forghani/
+-- vahid.forghani@gmail.com
+-- https://www.linkedin.com/in/vahid-forghani/
 
 <!---
 vahid-forghani/vahid-forghani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
